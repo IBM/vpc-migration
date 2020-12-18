@@ -7,8 +7,8 @@ This repository is dedicated to providing tools to help with your migration to I
 tools that are made available here can be used individually or collectively as part of the migration
 journey.
 
-- [Redhat Precheck Script](Linux-Precheck-Srcripts/README.md)
-- [New custom Windows Prep Script for Importing](Create-Windows-Import/README.md)
+- [Redhat Precheck Script](Linux-Precheck-Srcripts/)
+- [New custom Windows Prep Script for Importing](Create-Windows-Import/)
 
 ## Resource ##
 - [About VPC Migration](https://cloud.ibm.com/docs/cloud-infrastructure?topic=cloud-infrastructure-about-migration-infra)
