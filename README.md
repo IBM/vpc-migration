@@ -8,6 +8,7 @@ tools that are made available here can be used individually or collectively as p
 journey.
 
 - [Redhat Precheck Script](Linux-Precheck-Srcripts/README.md)
+- [New custom Windows Prep Script for Importing](Create-Windows-Import/README.md)
 
 <!-- A more detailed Usage or detailed explaination of the repository here -->
 
