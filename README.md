@@ -7,6 +7,8 @@ This repository is dedicated to providing tools to help with your migration to I
 tools that are made available here can be used individually or collectively as part of the migration
 journey.
 
+- [Redhat Precheck Script](Linux-Precheck-Srcripts/README.md)
+
 <!-- A more detailed Usage or detailed explaination of the repository here -->
 
 ## Authors
