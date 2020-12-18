@@ -15,9 +15,3 @@ journey.
 - [VPC+ Cloud Migration tool](https://cloud.ibm.com/docs/wanclouds-vpc-plus?topic=wanclouds-vpc-plus-getting-started-tutorial)
 
 <!-- A more detailed Usage or detailed explaination of the repository here -->
-
-## Authors
-
-- David Nguyen (davidng@ibm.com)
-- Rahul Ippar (rahul.ippar@ibm.com)
-- Vikash Kumar Shrivastva (vikash.kumar.shrivastva@ibm.com)
