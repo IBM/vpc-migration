@@ -10,7 +10,7 @@ journey.
 - [Redhat Precheck Script](Linux-Precheck-Srcripts/README.md)
 - [New custom Windows Prep Script for Importing](Create-Windows-Import/README.md)
 
-### Resource ###
+## Resource ##
 - [About VPC Migration](https://cloud.ibm.com/docs/cloud-infrastructure?topic=cloud-infrastructure-about-migration-infra)
 - [VPC+ Cloud Migration tool](https://cloud.ibm.com/docs/wanclouds-vpc-plus?topic=wanclouds-vpc-plus-getting-started-tutorial)
 
