@@ -1,6 +1,6 @@
 # Precheck Scripts #
 There is a set of minimum image requirements when you migrate a virtual/guest machine to IBM Cloud
-as a custom image. More information can be found here.
+as a custom image. More information can be found [here](https://cloud.ibm.com/docs/vpc?topic=vpc-managing-images).
 
 It is highly recommended to test the precheck scripts on a clone of the virtual/guest machine and
 not on the actual system.
