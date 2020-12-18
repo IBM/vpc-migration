@@ -23,7 +23,6 @@ and install it.
 
 To run the script, ensure the following:
 
-- This script should ALWAYS be executed on a clone system.
 - The assumption is that the system has internet access.  If the system does not have internet
 access, then another box download (CloudbaseInitSetup_Stable_x64.msi and virtio-win.iso) and copy
 the files to the C:\temp folder.
