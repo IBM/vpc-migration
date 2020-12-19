@@ -17,7 +17,7 @@ The script checks the following:
      - If missing, then exit.  User will need to upgrade the OS.
 - Check for virtio drivers
      - If missing, then exit.  User will need to install the virtio driver.
-- Check for cloud-init and correct data source.
+- Check for cloud-init, minimum supported version (0.7.9) and correct data source.
      - If missing cloud-init, then install from yum repository and add the correct data sources.
      - If data sources are missing, then make a backup copy of cloud.cfg to cloud.cfg.bak and correct 
 the data source parameters.
