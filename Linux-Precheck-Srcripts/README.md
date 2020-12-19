@@ -13,7 +13,7 @@ script can be used if you are planning to do the migration yourself or use in co
 Cloud Migration tool.
 
 The script checks the following:
-- If the system meets the minimum supported major version
+- If the system meets the minimum supported major version (7.x)
      - If missing, then exit.  User will need to upgrade the OS.
 - Check for virtio drivers
      - If missing, then exit.  User will need to install the virtio driver.
@@ -23,6 +23,9 @@ The script checks the following:
 the data source parameters.
      - If the virtual server instance is from IBM classic infrastructure and has secondary attached
 volumes, then check for NOFAIL flag.  If not present, then add NOFAIL.
+
+**NOTE:** The script does depend on yum in order to install cloud-init.  Make sure your repository is
+active and current.
 
 To execute the script, run the following command: </br>
 ```./rhel_precheck.sh```
