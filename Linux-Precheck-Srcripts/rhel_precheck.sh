@@ -2,7 +2,6 @@
 
 ######################################################################################################
 # Script Name :  precheck.sh     
-# Prepared By : Vikash.Kumar.Shrivastva@ibm.com
 # Create Date : 02 Nov 2020
 # Version: 1.0
 # This is a rhel rhel_precheck script to ensure the system meets the minimum requirement for VPC.  This script will check the OS and minimum supported version,
